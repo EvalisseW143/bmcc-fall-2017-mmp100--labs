@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Non-Meat Items</title>
+</head>
+<body>
+    <h1>Non-Meat Items</h1>
+
+    <h2>Fruits</h2>
+    <h3>Pears</h3>
+    <h3>Apple</h3>
+    <h3>Avocado</h3>
+
+    <h2>Vegetables<h2/>
+    <h3>Broccoli</h3>
+    <h3>Kale</h3>
+    <h3>Spinach</h3>
+
+    <h2>Nuts</h2>
+    <h3>Almonds</h3>
+    <h3>Cashews</h3>
+    <h3>Peanuts</h3>
+</body>
+</html>
